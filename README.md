@@ -1,5 +1,7 @@
 # Wolust_App_Android
-Schnell mal zusammengeklickt
+Schnell mal zusammengeklickt.
+
 Diese App wurde mit dem [http://appinventor.mit.edu/explore/](Appinventor) erstellt
-Source = wolust.ai
-App = wolust.apk
+
+* Source = wolust.ai
+* App = wolust.apk
